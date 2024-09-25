@@ -1,4 +1,5 @@
 # Deploying a docker-based monitoring stack using Ansible
+Reference: https://cloud.theodo.com/en/blog/prometheus-monitoring-ansible
 
 ## Ansible
 
