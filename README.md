@@ -1,4 +1,6 @@
-# Ansible
+# Deploying a docker-based monitoring stack using Ansible
+
+## Ansible
 
 This repository was created using Ansible version 2.13.3. It has been validated with 2.16.10. If having problem launching playbooks, please make sure you have a high enough version of Ansible.
 
