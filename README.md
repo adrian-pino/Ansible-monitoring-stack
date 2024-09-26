@@ -14,9 +14,12 @@ This repository is composed of multiple folders, used as follows:
 ├── roles                  -> ansible roles
 ```
 
-## Using ansible
+## Requirements
+Ensure the following dependencies are installed:
 
-To use ansible, you must first install ansible. Follow the steps described [here](https://docs.ansible.com/ansible/latest/installation_guide/index.html), depending on your OS.
+- **Ansible**: Install Ansible on your local machine or a remote server, ensuring that target devices are accessible. Refer to the official installation guide [here](https://docs.ansible.com/ansible/latest/installation_guide/index.html) for setup instructions.
+
+- **Docker**: Docker must be installed on each node to be monitored. Follow the installation steps provided [here](https://docs.docker.com/engine/install).
 
 ## How to run it
 ```.
